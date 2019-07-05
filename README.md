@@ -1,3 +1,6 @@
+# REFERENCE
+[VueJs + Vue CLI 3 + Vuetify + Cordova + Nano Sql: Building a cross platform app with a local SQL database that can load data from a static csv file](https://www.learningsomethingnew.com/vue-js-vue-cli-3-vuetify-cordova-nano-sql-building-a-cross-platform-app-with-a-local-sql-database-that-can-load-data-from-a-static-csv-file)
+
 # vue-csv-sample
 
 ## What is this
